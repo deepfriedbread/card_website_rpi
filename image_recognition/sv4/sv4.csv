@@ -1,0 +1,279 @@
+class,number,name,rarity
+0,1,Surskit,Common
+1,2,Masquerain,Uncommon
+2,3,Froslass ex,Double Rare
+3,4,Pansage,Common
+4,5,Simisage,Uncommon
+5,6,Dwebble,Common
+6,7,Crustle,Common
+7,8,Bounsweet,Common
+8,9,Steenee,Uncommon
+9,10,Blipbug,Common
+10,11,Dottler,Common
+11,12,Orbeetle,Uncommon
+12,13,Nymble,Common
+13,14,Nymble,Common
+14,15,Toedscool,Common
+15,16,Toedscool,Common
+16,17,Toedscruel,Uncommon
+17,18,Wo-Chien,Rare
+18,19,Magby,Common
+19,20,Pansear,Common
+20,21,Simisear,Uncommon
+21,22,Volcanion,Rare
+22,23,Fuecoco,Common
+23,24,Crocalor,Uncommon
+24,25,Charcadet,Common
+25,26,Charcadet,Common
+26,27,Armarouge ex,Double Rare
+27,28,Iron Moth,Rare
+28,29,Chi-Yu,Rare
+29,30,Horsea,Common
+30,31,Seadra,Common
+31,32,Kingdra,Rare
+32,33,Remoraid,Common
+33,34,Octillery,Common
+34,35,Feebas,Common
+35,36,Milotic,Rare
+36,37,Snorunt,Common
+37,38,Garchomp ex,Double Rare
+38,39,Mantyke,Common
+39,40,Palkia,Rare
+40,41,Panpour,Common
+41,42,Simipour,Uncommon
+42,43,Vanillite,Common
+43,44,Vanillish,Common
+44,45,Vanilluxe,Uncommon
+45,46,Tsareena ex,Double Rare
+46,47,Wimpod,Common
+47,48,Wimpod,Common
+48,49,Golisopod,Rare
+49,50,Golisopod ex,Double Rare
+50,51,Wiglett,Common
+51,52,Wiglett,Common
+52,53,Wugtrio,Uncommon
+53,54,Veluza,Uncommon
+54,55,Dondozo,Uncommon
+55,56,Iron Bundle,Uncommon
+56,57,Chien-Pao,Rare
+57,58,Mewtwo ex,Double Rare
+58,59,Elekid,Common
+59,60,Plusle,Common
+60,61,Minun,Common
+61,62,Blitzle,Common
+62,63,Zebstrika,Uncommon
+63,64,Joltik,Common
+64,65,Galvantula,Common
+65,66,Zekrom,Rare
+66,67,Oricorio,Common
+67,68,Tapu Koko ex,Double Rare
+68,69,Toxel,Common
+69,70,Iron Hands ex,Double Rare
+70,71,Natu,Common
+71,72,Xatu,Rare
+72,73,Latios,Rare
+73,74,Deoxys,Rare
+74,75,Yamask,Common
+75,76,Cofagrigus ex,Double Rare
+76,77,Pumpkaboo,Common
+77,78,Gourgeist,Uncommon
+78,79,Flittle,Common
+79,80,Flittle,Common
+80,81,Espathra,Rare
+81,82,Tinkatink,Common
+82,83,Tinkatink,Common
+83,84,Tinkatuff,Common
+84,85,Tinkaton,Uncommon
+85,86,Scream Tail,Uncommon
+86,87,Gimmighoul,Common
+87,88,Gimmighoul,Common
+88,89,Iron Valiant ex,Double Rare
+89,90,Onix,Common
+90,91,Gligar,Common
+91,92,Gliscor,Uncommon
+92,93,Groudon,Rare
+93,94,Gible,Common
+94,95,Gabite,Common
+95,96,Mienfoo,Common
+96,97,Mienshao,Uncommon
+97,98,Hoopa ex,Double Rare
+98,99,Minior,Uncommon
+99,100,Toxtricity ex,Double Rare
+100,101,Nacli,Common
+101,102,Nacli,Common
+102,103,Naclstack,Common
+103,104,Garganacl,Rare
+104,105,Klawf,Uncommon
+105,106,Flamigo,Common
+106,107,Slither Wing,Uncommon
+107,108,Sandy Shocks ex,Double Rare
+108,109,Ting-Lu,Rare
+109,110,Zubat,Common
+110,111,Golbat,Common
+111,112,Crobat,Uncommon
+112,113,Absol,Uncommon
+113,114,Purrloin,Common
+114,115,Liepard,Common
+115,116,Trubbish,Common
+116,117,Garbodor,Uncommon
+117,118,Yveltal,Rare
+118,119,Nickit,Common
+119,120,Thievul,Rare
+120,121,Morpeko,Rare
+121,122,Lokix,Rare
+122,123,Brute Bonnet,Rare
+123,124,Roaring Moon ex,Double Rare
+124,125,Steelix,Rare
+125,126,Jirachi,Common
+126,127,Ferroseed,Common
+127,128,Ferrothorn,Uncommon
+128,129,Durant,Uncommon
+129,130,Honedge,Common
+130,131,Honedge,Common
+131,132,Doublade,Common
+132,133,Doublade,Common
+133,134,Aegislash,Rare
+134,135,Aegislash ex,Double Rare
+135,136,Zacian,Rare
+136,137,Skeledirge ex,Double Rare
+137,138,Orthworm,Uncommon
+138,139,Gholdengo ex,Double Rare
+139,140,Altaria ex,Double Rare
+140,141,Tatsugiri,Uncommon
+141,142,Porygon,Common
+142,143,Porygon2,Common
+143,144,Porygon-Z,Rare
+144,145,Aipom,Common
+145,146,Ambipom,Uncommon
+146,147,Miltank,Common
+147,148,Whismur,Common
+148,149,Loudred,Common
+149,150,Exploud,Uncommon
+150,151,Spinda,Common
+151,152,Swablu,Common
+152,153,Tandemaus,Common
+153,154,Tandemaus,Common
+154,155,Maushold ex,Double Rare
+155,156,Bombirdier ex,Double Rare
+156,157,Cyclizar,Uncommon
+157,158,Iron Jugulis,Rare
+158,159,Ancient Booster Energy Capsule,Uncommon
+159,160,Counter Catcher,Uncommon
+160,161,Cursed Duster,Uncommon
+161,162,Defiance Vest,Uncommon
+162,163,Earthen Vessel,Uncommon
+163,164,Future Booster Energy Capsule,Uncommon
+164,165,Larry,Common
+165,166,Luxurious Cape,Uncommon
+166,167,Mela,Uncommon
+167,168,Norman,Uncommon
+168,169,Parasol Lady,Common
+169,170,Professor Sada's Vitality,Uncommon
+170,171,Professor Turo's Scenario,Uncommon
+171,172,Rika,Uncommon
+172,173,Roark,Uncommon
+173,174,Shauntal,Uncommon
+174,175,Snorlax Doll,Uncommon
+175,176,Technical Machine: Blindside,Uncommon
+176,177,Technical Machine: Devolution,Uncommon
+177,178,Technical Machine: Evolution,Uncommon
+178,179,Technical Machine: Turbo Energize,Uncommon
+179,180,Techno Radar,Uncommon
+180,181,Tulip,Uncommon
+181,182,Medical Energy,Uncommon
+182,183,Crustle,Illustration Rare
+183,184,Dottler,Illustration Rare
+184,185,Toedscruel,Illustration Rare
+185,186,Magby,Illustration Rare
+186,187,Iron Moth,Illustration Rare
+187,188,Snorunt,Illustration Rare
+188,189,Mantyke,Illustration Rare
+189,190,Vanillish,Illustration Rare
+190,191,Wimpod,Illustration Rare
+191,192,Veluza,Illustration Rare
+192,193,Plusle,Illustration Rare
+193,194,Minun,Illustration Rare
+194,195,Blitzle,Illustration Rare
+195,196,Joltik,Illustration Rare
+196,197,Espathra,Illustration Rare
+197,198,Gimmighoul,Illustration Rare
+198,199,Groudon,Illustration Rare
+199,200,Mienshao,Illustration Rare
+200,201,Minior,Illustration Rare
+201,202,Garganacl,Illustration Rare
+202,203,Slither Wing,Illustration Rare
+203,204,Garbodor,Illustration Rare
+204,205,Yveltal,Illustration Rare
+205,206,Morpeko,Illustration Rare
+206,207,Brute Bonnet,Illustration Rare
+207,208,Steelix,Illustration Rare
+208,209,Ferrothorn,Illustration Rare
+209,210,Aegislash,Illustration Rare
+210,211,Aipom,Illustration Rare
+211,212,Loudred,Illustration Rare
+212,213,Swablu,Illustration Rare
+213,214,Porygon-Z,Illustration Rare
+214,215,Cyclizar,Illustration Rare
+215,216,Iron Jugulis,Illustration Rare
+216,217,Froslass ex,Ultra Rare
+217,218,Armarouge ex,Ultra Rare
+218,219,Garchomp ex,Ultra Rare
+219,220,Tsareena ex,Ultra Rare
+220,221,Golisopod ex,Ultra Rare
+221,222,Tapu Koko ex,Ultra Rare
+222,223,Iron Hands ex,Ultra Rare
+223,224,Cofagrigus ex,Ultra Rare
+224,225,Iron Valiant ex,Ultra Rare
+225,226,Hoopa ex,Ultra Rare
+226,227,Toxtricity ex,Ultra Rare
+227,228,Sandy Shocks ex,Ultra Rare
+228,229,Roaring Moon ex,Ultra Rare
+229,230,Aegislash ex,Ultra Rare
+230,231,Gholdengo ex,Ultra Rare
+231,232,Altaria ex,Ultra Rare
+232,233,Maushold ex,Ultra Rare
+233,234,Bombirdier ex,Ultra Rare
+234,235,Larry,Ultra Rare
+235,236,Mela,Ultra Rare
+236,237,Norman,Ultra Rare
+237,238,Parasol Lady,Ultra Rare
+238,239,Professor Sada's Vitality,Ultra Rare
+239,240,Professor Turo's Scenario,Ultra Rare
+240,241,Rika,Ultra Rare
+241,242,Roark,Ultra Rare
+242,243,Shauntal,Ultra Rare
+243,244,Tulip,Ultra Rare
+244,245,Garchomp ex,Special Illustration Rare
+245,246,Golisopod ex,Special Illustration Rare
+246,247,Tapu Koko ex,Special Illustration Rare
+247,248,Iron Hands ex,Special Illustration Rare
+248,249,Iron Valiant ex,Special Illustration Rare
+249,250,Sandy Shocks ex,Special Illustration Rare
+250,251,Roaring Moon ex,Special Illustration Rare
+251,252,Gholdengo ex,Special Illustration Rare
+252,253,Altaria ex,Special Illustration Rare
+253,254,Mela,Special Illustration Rare
+254,255,Parasol Lady,Special Illustration Rare
+255,256,Professor Sada's Vitality,Special Illustration Rare
+256,257,Professor Turo's Scenario,Special Illustration Rare
+257,258,Rika,Special Illustration Rare
+258,259,Tulip,Special Illustration Rare
+259,260,Garchomp ex,Hyper Rare
+260,261,Iron Valiant ex,Hyper Rare
+261,262,Roaring Moon ex,Hyper Rare
+262,263,Beach Court,Hyper Rare
+263,264,Counter Catcher,Hyper Rare
+264,265,Luxurious Cape,Hyper Rare
+265,266,Reversal Energy,Hyper Rare
+266,267,Basic Darkness Energy,
+267,268,Maractus,
+268,269,Numel,
+269,270,Camerupt,
+270,271,Woobat,
+271,272,Swoobat,
+272,273,Clobbopus,
+273,274,Grapploct,
+274,275,Scream Tail,
+275,276,Basic Metal Energy,
+276,277,Chimecho,
+277,278,Iron Bundle,

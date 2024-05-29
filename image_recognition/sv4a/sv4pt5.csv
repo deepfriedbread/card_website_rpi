@@ -1,0 +1,392 @@
+class,number,name,rarity
+0,1,Pineco,Common
+1,2,Forretress ex,Double Rare
+2,3,Maractus,Common
+3,4,Toedscool,Common
+4,5,Toedscruel ex,Double Rare
+5,6,Espathra ex,Double Rare
+6,7,Charmander,Common
+7,8,Charmeleon,Uncommon
+8,9,Magmar,Common
+9,10,Magmortar,Rare
+10,11,Numel,Common
+11,12,Camerupt,Uncommon
+12,13,Heat Rotom,Rare
+13,14,Charcadet,Common
+14,15,Armarouge,Rare
+15,16,Lapras,Common
+16,17,Frigibax,Common
+17,18,Pikachu,Common
+18,19,Raichu,Rare
+19,20,Chinchou,Common
+20,21,Lanturn,Uncommon
+21,22,Kilowattrel,Uncommon
+22,23,Exeggcute,Common
+23,24,Exeggutor,Rare
+24,25,Natu,Common
+25,26,Xatu,Rare
+26,27,Ralts,Common
+27,28,Kirlia,Uncommon
+28,29,Gardevoir ex,Double Rare
+29,30,Chimecho,Common
+30,31,Mime Jr.,Common
+31,32,Woobat,Common
+32,33,Swoobat,Uncommon
+33,34,Cottonee,Common
+34,35,Whimsicott,Uncommon
+35,36,Dedenne,Common
+36,37,Mimikyu,Rare
+37,38,Fidough,Common
+38,39,Dachsbun,Uncommon
+39,40,Ceruledge,Rare
+40,41,Flittle,Common
+41,42,Greavard,Common
+42,43,Houndstone,Rare
+43,44,Gimmighoul,Common
+44,45,Mankey,Common
+45,46,Primeape,Uncommon
+46,47,Annihilape,Rare
+47,48,Phanpy,Common
+48,49,Donphan,Uncommon
+49,50,Barboach,Common
+50,51,Clobbopus,Common
+51,52,Grapploct,Uncommon
+52,53,Great Tusk ex,Double Rare
+53,54,Charizard ex,Double Rare
+54,55,Gastly,Common
+55,56,Haunter,Common
+56,57,Gengar,Uncommon
+57,58,Paldean Wooper,Common
+58,59,Paldean Clodsire ex,Double Rare
+59,60,Scraggy,Common
+60,61,Scrafty,Uncommon
+61,62,Maschiff,Common
+62,63,Mabosstiff,Rare
+63,64,Varoom,Common
+64,65,Revavroom,Rare
+65,66,Iron Treads ex,Double Rare
+66,67,Gholdengo,Rare
+67,68,Noibat,Common
+68,69,Noivern ex,Double Rare
+69,70,Cyclizar,Rare
+70,71,Lechonk,Common
+71,72,Oinkologne,Uncommon
+72,73,Tandemaus,Common
+73,74,Maushold,Uncommon
+74,75,Squawkabilly ex,Double Rare
+75,76,Artazon,Uncommon
+76,77,Atticus,Uncommon
+77,78,Clive,Uncommon
+78,79,Electric Generator,Uncommon
+79,80,Iono,Uncommon
+80,81,Moonlit Hill,Uncommon
+81,82,Nemona,Common
+82,83,Nemona's Backpack,Uncommon
+83,84,Nest Ball,Uncommon
+84,85,Paldean Student,Common
+85,86,Paldean Student,Common
+86,87,Professor's Research,Rare
+87,88,Professor's Research,Rare
+88,89,Rare Candy,Common
+89,90,Technical Machine: Crisis Punch,Uncommon
+90,91,Ultra Ball,Uncommon
+91,92,Oddish,Shiny Rare
+92,93,Gloom,Shiny Rare
+93,94,Vileplume,Shiny Rare
+94,95,Scyther,Shiny Rare
+95,96,Hoppip,Shiny Rare
+96,97,Skiploom,Shiny Rare
+97,98,Jumpluff,Shiny Rare
+98,99,Pineco,Shiny Rare
+99,100,Snover,Shiny Rare
+100,101,Abomasnow,Shiny Rare
+101,102,Smoliv,Shiny Rare
+102,103,Dolliv,Shiny Rare
+103,104,Arboliva,Shiny Rare
+104,105,Toedscool,Shiny Rare
+105,106,Capsakid,Shiny Rare
+106,107,Scovillain,Shiny Rare
+107,108,Rellor,Shiny Rare
+108,109,Charmander,Shiny Rare
+109,110,Charmeleon,Shiny Rare
+110,111,Paldean Tauros,Shiny Rare
+111,112,Entei,Shiny Rare
+112,113,Oricorio,Shiny Rare
+113,114,Charcadet,Shiny Rare
+114,115,Armarouge,Shiny Rare
+115,116,Slowpoke,Shiny Rare
+116,117,Slowbro,Shiny Rare
+117,118,Staryu,Shiny Rare
+118,119,Starmie,Shiny Rare
+119,120,Paldean Tauros,Shiny Rare
+120,121,Wiglett,Shiny Rare
+121,122,Wugtrio,Shiny Rare
+122,123,Finizen,Shiny Rare
+123,124,Palafin,Shiny Rare
+124,125,Veluza,Shiny Rare
+125,126,Dondozo,Shiny Rare
+126,127,Tatsugiri,Shiny Rare
+127,128,Frigibax,Shiny Rare
+128,129,Arctibax,Shiny Rare
+129,130,Baxcalibur,Shiny Rare
+130,131,Pikachu,Shiny Rare
+131,132,Raichu,Shiny Rare
+132,133,Voltorb,Shiny Rare
+133,134,Electrode,Shiny Rare
+134,135,Shinx,Shiny Rare
+135,136,Luxio,Shiny Rare
+136,137,Luxray,Shiny Rare
+137,138,Pachirisu,Shiny Rare
+138,139,Thundurus,Shiny Rare
+139,140,Toxel,Shiny Rare
+140,141,Toxtricity,Shiny Rare
+141,142,Pawmi,Shiny Rare
+142,143,Pawmo,Shiny Rare
+143,144,Pawmot,Shiny Rare
+144,145,Wattrel,Shiny Rare
+145,146,Kilowattrel,Shiny Rare
+146,147,Wigglytuff,Shiny Rare
+147,148,Abra,Shiny Rare
+148,149,Kadabra,Shiny Rare
+149,150,Cleffa,Shiny Rare
+150,151,Natu,Shiny Rare
+151,152,Xatu,Shiny Rare
+152,153,Ralts,Shiny Rare
+153,154,Kirlia,Shiny Rare
+154,155,Drifloon,Shiny Rare
+155,156,Drifblim,Shiny Rare
+156,157,Mime Jr.,Shiny Rare
+157,158,Spiritomb,Shiny Rare
+158,159,Klefki,Shiny Rare
+159,160,Mimikyu,Shiny Rare
+160,161,Dachsbun,Shiny Rare
+161,162,Ceruledge,Shiny Rare
+162,163,Rabsca,Shiny Rare
+163,164,Flittle,Shiny Rare
+164,165,Tinkatink,Shiny Rare
+165,166,Tinkatuff,Shiny Rare
+166,167,Tinkaton,Shiny Rare
+167,168,Houndstone,Shiny Rare
+168,169,Mankey,Shiny Rare
+169,170,Primeape,Shiny Rare
+170,171,Annihilape,Shiny Rare
+171,172,Paldean Tauros,Shiny Rare
+172,173,Riolu,Shiny Rare
+173,174,Lucario,Shiny Rare
+174,175,Hawlucha,Shiny Rare
+175,176,Nacli,Shiny Rare
+176,177,Naclstack,Shiny Rare
+177,178,Garganacl,Shiny Rare
+178,179,Glimmet,Shiny Rare
+179,180,Paldean Wooper,Shiny Rare
+180,181,Murkrow,Shiny Rare
+181,182,Sneasel,Shiny Rare
+182,183,Weavile,Shiny Rare
+183,184,Sableye,Shiny Rare
+184,185,Pawniard,Shiny Rare
+185,186,Bisharp,Shiny Rare
+186,187,Kingambit,Shiny Rare
+187,188,Mabosstiff,Shiny Rare
+188,189,Shroodle,Shiny Rare
+189,190,Grafaiai,Shiny Rare
+190,191,Scizor,Shiny Rare
+191,192,Varoom,Shiny Rare
+192,193,Revavroom,Shiny Rare
+193,194,Noibat,Shiny Rare
+194,195,Cyclizar,Shiny Rare
+195,196,Pidgey,Shiny Rare
+196,197,Pidgeotto,Shiny Rare
+197,198,Jigglypuff,Shiny Rare
+198,199,Doduo,Shiny Rare
+199,200,Dodrio,Shiny Rare
+200,201,Ditto,Shiny Rare
+201,202,Snorlax,Shiny Rare
+202,203,Wingull,Shiny Rare
+203,204,Pelipper,Shiny Rare
+204,205,Skwovet,Shiny Rare
+205,206,Greedent,Shiny Rare
+206,207,Lechonk,Shiny Rare
+207,208,Oinkologne,Shiny Rare
+208,209,Tandemaus,Shiny Rare
+209,210,Maushold,Shiny Rare
+210,211,Flamigo,Shiny Rare
+211,212,Forretress ex,Shiny Ultra Rare
+212,213,Toedscruel ex,Shiny Ultra Rare
+213,214,Espathra ex,Shiny Ultra Rare
+214,215,Alakazam ex,Shiny Ultra Rare
+215,216,Mew ex,Shiny Ultra Rare
+216,217,Gardevoir ex,Shiny Ultra Rare
+217,218,Glimmora ex,Shiny Ultra Rare
+218,219,Paldean Clodsire ex,Shiny Ultra Rare
+219,220,Noivern ex,Shiny Ultra Rare
+220,221,Pidgeot ex,Shiny Ultra Rare
+221,222,Wigglytuff ex,Shiny Ultra Rare
+222,223,Squawkabilly ex,Shiny Ultra Rare
+223,224,Wugtrio,Illustration Rare
+224,225,Palafin,Illustration Rare
+225,226,Pawmi,Illustration Rare
+226,227,Clive,Ultra Rare
+227,228,Judge,Ultra Rare
+228,229,Nemona,Ultra Rare
+229,230,Paldean Student,Ultra Rare
+230,231,Paldean Student,Ultra Rare
+231,232,Mew ex,Special Illustration Rare
+232,233,Gardevoir ex,Special Illustration Rare
+233,234,Charizard ex,Special Illustration Rare
+234,235,Arven,Special Illustration Rare
+235,236,Clive,Special Illustration Rare
+236,237,Iono,Special Illustration Rare
+237,238,Nemona,Special Illustration Rare
+238,239,Penny,Special Illustration Rare
+239,240,Wo-Chien ex,Hyper Rare
+240,241,Chi-Yu ex,Hyper Rare
+241,242,Chien-Pao ex,Hyper Rare
+242,243,Miraidon ex,Hyper Rare
+243,244,Ting-Lu ex,Hyper Rare
+244,245,Koraidon ex,Hyper Rare
+245,246,Oddish,Common
+246,247,Gloom,
+247,248,Vileplume,
+248,249,Scyther,
+249,250,Hoppip,
+250,251,Skiploom,
+251,252,Jumpluff,
+252,253,Snover,
+253,254,Abomasnow,
+254,255,Sprigatito,
+255,256,Floragato,
+256,257,Meowscarada ex,
+257,258,Smoliv,
+258,259,Dolliv,
+259,260,Arboliva,
+260,261,Capsakid,
+261,262,Scovillain,
+262,263,Rellor,
+263,264,Wo-Chien ex,
+264,265,Paldean Tauros,
+265,266,Entei,
+266,267,Oricorio,
+267,268,Fuecoco,
+268,269,Crocalor,
+269,270,Skeledirge ex,
+270,271,Chi-Yu ex,
+271,272,Slowpoke,
+272,273,Slowbro,
+273,274,Staryu,
+274,275,Starmie,
+275,276,Paldean Tauros,
+276,277,Quaxly,
+277,278,Quaxwell,
+278,279,Quaquaval ex,
+279,280,Wiglett,
+280,281,Wugtrio,
+281,282,Finizen,
+282,283,Palafin,
+283,284,Veluza,
+284,285,Dondozo,
+285,286,Tatsugiri,
+286,287,Arctibax,
+287,288,Baxcalibur,
+288,289,Chien-Pao ex,
+289,290,Voltorb,
+290,291,Electrode,
+291,292,Shinx,
+292,293,Luxio,
+293,294,Luxray,
+294,295,Pachirisu,
+295,296,Thundurus,
+296,297,Toxel,
+297,298,Toxtricity,
+298,299,Pawmi,
+299,300,Pawmo,
+300,301,Pawmot,
+301,302,Wattrel,
+302,303,Miraidon ex,
+303,304,Wigglytuff,
+304,305,Abra,
+305,306,Kadabra,
+306,307,Alakazam ex,
+307,308,Mew ex,
+308,309,Cleffa,
+309,310,Drifloon,
+310,311,Drifblim,
+311,312,Spiritomb,
+312,313,Klefki,
+313,314,Rabsca,
+314,315,Tinkatink,
+315,316,Tinkatuff,
+316,317,Tinkaton,
+317,318,Paldean Tauros,
+318,319,Riolu,
+319,320,Lucario,
+320,321,Hawlucha,
+321,322,Nacli,
+322,323,Naclstack,
+323,324,Garganacl,
+324,325,Glimmet,
+325,326,Glimmora ex,
+326,327,Ting-Lu ex,
+327,328,Koraidon ex,
+328,329,Murkrow,
+329,330,Sneasel,
+330,331,Weavile,
+331,332,Sableye,
+332,333,Pawniard,
+333,334,Bisharp,
+334,335,Kingambit,
+335,336,Shroodle,
+336,337,Grafaiai,
+337,338,Scizor,
+338,339,Revavroom,
+339,340,Pidgey,
+340,341,Pidgeotto,
+341,342,Pidgeot ex,
+342,343,Jigglypuff,
+343,344,Wigglytuff ex,
+344,345,Doduo,
+345,346,Dodrio,
+346,347,Ditto,
+347,348,Snorlax,
+348,349,Wingull,
+349,350,Pelipper,
+350,351,Skwovet,
+351,352,Greedent,
+352,353,Flamigo,
+353,354,Superior Energy Retrieval,
+354,355,Super Rod,
+355,356,Letter of Encouragement,
+356,357,Rock Chestplate,
+357,358,Big Air Balloon,
+358,359,Rigid Band,
+359,360,Leftovers,
+360,361,Defiance Band,
+361,362,Bravery Charm,
+362,363,Geeta,
+363,364,Clavell,
+364,365,Giovanni's Charisma,
+365,366,Arven,
+366,367,Boss's Orders,
+367,368,Penny,
+368,369,Town Store,
+369,370,Beach Court,
+370,371,Pokemon League Headquarters,
+371,372,Practice Studio,
+372,373,Therapeutic Energy,
+373,374,Reversal Energy,
+374,375,Luminous Energy,
+375,376,Sprigatito,
+376,377,Floragato,
+377,378,Fuecoco,
+378,379,Crocalor,
+379,380,Quaxly,
+380,381,Quaxwell,
+381,382,Fidough,
+382,383,Greavard,
+383,384,Maschiff,
+384,385,Meowscarada ex,
+385,386,Skeledirge ex,
+386,387,Quaquaval ex,
+387,388,Great Tusk ex,
+388,389,Charizard ex,
+389,390,Iron Treads ex,
+390,391,Mimikyu,
